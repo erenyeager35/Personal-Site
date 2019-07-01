@@ -1,0 +1,145 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.62rem;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    margin-top: 15px;
+    color: #66BFBF;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+    margin: 10px 15px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+p {
+    color: #40514E;
+}
+
+hr {
+    border: none;
+    border-top: 10px dotted #EAF6F6;
+    width: 6%;
+    border-top-width: 10px;
+}
+
+span {
+    color: white;
+}
+
+.top-container {
+    background-color: #e4f9f5;
+    padding-top: 100px;
+    position: relative;
+}
+
+.middle-container {
+    margin-top: 25px;
+    margin-bottom: 90px;
+}
+
+.skills {
+    margin-top: 90px;
+}
+
+
+.bottom-container {
+    background-color: #66bfbf;
+    padding: 25px;
+}
+
+.web {
+    text-decoration: underline;
+    color: #66bfbf
+}
+
+.top-cloud {
+    position: absolute;
+    top: 45px;
+    right: 400px;
+
+}
+
+.bottom-cloud {
+    position: absolute;
+}
+
+.webdev {
+    font-weight: normal;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.netflix-img {
+    width: 25%;
+    border-radius: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.computer-img {
+    width: 25%;
+    border-radius: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.intro {
+    width: 35%;
+    text-align: center;
+    margin: 45px auto;
+}
+
+.contact-me {
+   margin: 30px auto;
+
+   width: 40%;
+   margin-bottom: 30px;
+}
+
+.foot-p {
+    color: #EAF6F6;
+}
+
+.btn {
+    padding: 10px;
+    border: 1px solid;
+    position: absolute;
+    right: 43%;
+    background-color: #11999e;
+    width: 160px;
+    border-radius: 15px;
+}
+
+.love  {
+    color: white;
+    font-size: 12px;
+    position: relative;
+    top: 20px;
+}
