@@ -114,6 +114,10 @@ span {
     line-height: 2;
 }
 
+.projects-btn {
+    text-align: center;
+}
+
 .netflix-img {
     width: 25%;
     border-radius: 25%;
